@@ -37,3 +37,4 @@ So, lets say you have text files (or JPEGs, I used .gordontext in the example), 
 9) Click Look for another app on this PC on the bottom left  
 ![Click Look for another app on this PC on the bottom left](http://virasawmi.com/gordon/images/2020-11-26_12-18-50.png)  
 10) Find where you put menu.exe and click ok.  
+11) Now you can double click any JPEG file and this mini menu program will pop up.
