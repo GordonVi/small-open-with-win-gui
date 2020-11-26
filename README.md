@@ -22,7 +22,7 @@ So, lets say you have text files (or JPEGs), but you have 6 programs that can op
 3a) This is simplifield JSON. You can add more programs or reduce programs.  
 ![Simplified JSON](http://virasawmi.com/gordon/images/2020-11-26_12-43-58.png)  
 
-4) Make this into an EXE with PS2EXE  
+4) Make this into an EXE with [PS2EXE](https://gallery.technet.microsoft.com/PS2EXE-GUI-Convert-e7cb69d5/view/Discussions/2)  
 4a) Make sure to "Run as Administrator"  
 4b) You only need to fill in to 2 fields. Source, and Destination.  
 
