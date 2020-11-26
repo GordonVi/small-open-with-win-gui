@@ -22,7 +22,8 @@ So, lets say you have text files, but you have 6 programs that can open text fil
 3a) This is simplifield JSON. You can add more programs or reduce programs.  
 
 4) Make this into an EXE with PS2EXE  
-4a) You only need to fill in to 2 fields. Source, and Destination.  
+4a) Make sure to "Run as Administrator"  
+4b) You only need to fill in to 2 fields. Source, and Destination.  
 
 5) Find one of the files you want to associate to the menu. Like a JPEG  
 
