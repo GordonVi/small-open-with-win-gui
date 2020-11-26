@@ -1,6 +1,8 @@
 # small-open-with-win-gui
-A powershell converted to an exe to select what program you want to open your file with on double click
-  
+A simple powershell menu converted to an exe to select what program you want to open your file with on double click
+
+![Menu](http://virasawmi.com/gordon/images/2020-11-26_12-32-41.png)  
+
 This was a response to a [Reddit post.](https://old.reddit.com/r/software/comments/k11zm0/looking_for_a_simple_tool_to_expand_open_file/)  
   
 So, lets say you have text files, but you have 6 programs that can open text files. You don't want to always default. This is a mini program that allows you to select and pass on the file and open it in whatever you put in your menu.
