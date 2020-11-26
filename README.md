@@ -20,6 +20,7 @@ So, lets say you have text files (or JPEGs), but you have 6 programs that can op
 
 3) Edit the top of menu.ps1 to reflect what programs and where there EXEs are located  
 3a) This is simplifield JSON. You can add more programs or reduce programs.  
+![Simplified JSON](http://virasawmi.com/gordon/images/2020-11-26_12-43-58.png)  
 
 4) Make this into an EXE with PS2EXE  
 4a) Make sure to "Run as Administrator"  
