@@ -3,9 +3,9 @@ A simple powershell menu converted to an exe to select what program you want to 
 
 ![Menu](http://virasawmi.com/gordon/images/2020-11-26_12-32-41.png)  
 
-This was a response to a [Reddit post.](https://old.reddit.com/r/software/comments/k11zm0/looking_for_a_simple_tool_to_expand_open_file/)  
+This was a response to a [Reddit post.](https://old.reddit.com/r/software/comments/k11zm0/looking_for_a_simple_tool_to_expand_open_file/) The OP wanted to open 3D design files in 4 different programs, but wanted to change the behavior of double clicking a file. He didn't want to right click and use "Open With."  
   
-So, lets say you have text files, but you have 6 programs that can open text files. You don't want to always default. This is a mini program that allows you to select and pass on the file and open it in whatever you put in your menu.
+So, lets say you have text files (or JPEGs), but you have 6 programs that can open those files. You don't want to always default. This is a mini program that allows you to select and pass on the file and open it in whatever you put in your menu.
 
 #Developed with:
 
