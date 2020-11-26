@@ -9,13 +9,27 @@ So, lets say you have text files, but you have 6 programs that can open text fil
 
 - https://github.com/lukaskarabec/Powershell-GUI-editor
 - [PS2EXE](https://gallery.technet.microsoft.com/PS2EXE-GUI-Convert-e7cb69d5/view/Discussions/2)  
+- SnagIt for screen shots
   
-# How to set this up  
+# How to set this up in Windows 10
   
 1) Make a folder in your c:\program files.  (I will assume you are using "c:\program files\menu")  
 2) Copy all the files from this Github into that folder  
-3) Edit the menu.ps1 to reflect what programs and where there EXEs are located  
+
+3) Edit the top of menu.ps1 to reflect what programs and where there EXEs are located  
+3a) This is simplifield JSON. You can add more programs or reduce programs.
+
 4) Make this into an EXE with PS2EXE  
+4a) You only need to fill in to 2 fields. Source, and Destination.
+
 5) Find one of the files you want to associate to the menu. Like a JPEG  
+
 6) Right click the JPEG and hit properties  
 ![Right click the JPEG and hit properties](http://virasawmi.com/gordon/images/2020-11-26_12-17-36.png)
+7) Hit the Change button on the top right
+![Hit the Change button on the top right](http://virasawmi.com/gordon/images/2020-11-26_12-18-02.png)
+8) Click More Apps on the bottom left
+![Click More Apps on the bottom left](http://virasawmi.com/gordon/images/2020-11-26_12-18-32.png)
+9) Click Look for another app on this PC on the bottom left
+![Click Look for another app on this PC on the bottom left](http://virasawmi.com/gordon/images/2020-11-26_12-18-50.png)
+10) Find where you put menu.exe and click ok.
