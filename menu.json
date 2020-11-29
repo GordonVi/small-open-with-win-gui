@@ -1,0 +1,29 @@
+[
+
+	{
+		"Program": "Notepad",
+		"EXE": "c:\\windows\\notepad.exe"
+	},
+	
+	{
+		"Program": "Notepad++",
+		"EXE": "C:\\Program Files (x86)\\Notepad++\\Notepad++.exe"
+	},
+	
+	{
+		"Program": "Write",
+		"EXE": "c:\\windows\\write.exe"
+	},
+
+	{
+		"Program": "Internet Explorer",
+		"EXE": "C:\\Program Files\\Internet Explorer\\iexplore.exe"
+	},
+	
+	{
+		"Program": "Chrome",
+		"EXE": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe"
+	}
+
+]
+
