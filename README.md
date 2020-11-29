@@ -13,7 +13,8 @@ So, lets say you have text files (or JPEGs, I used .gordontext in the example), 
 - [PS2EXE](https://gallery.technet.microsoft.com/PS2EXE-GUI-Convert-e7cb69d5/view/Discussions/2)  
 - SnagIt for screen shots
   
-# How to setup a menu.JSON" depedent version in Windows 10 
+# How to setup a "menu.JSON" depedent version in Windows 10 
+## This version is easier to setup  
 
 1) Make a folder in your c:\program files.  (I will assume you are using "c:\program files\menu")  
 2) Copy menu_JSON.exe and menu.JSON into that folder.
