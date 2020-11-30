@@ -14,7 +14,7 @@ So, lets say you have text files (or JPEGs, I used .gordontext in the example), 
 - [PS2EXE](https://gallery.technet.microsoft.com/PS2EXE-GUI-Convert-e7cb69d5/view/Discussions/2)  
 - SnagIt for screen shots
   
-# How to setup a "menu.JSON" depedent version in Windows 10 
+# How to setup a "menu.JSON" dependent version in Windows 10 
 ## This version is easier to setup  
 
 1) Make a folder in your c:\program files.  (I will assume you are using "c:\program files\menu")  
@@ -22,7 +22,7 @@ So, lets say you have text files (or JPEGs, I used .gordontext in the example), 
 3) Edit "menu.JSON" to reflect what programs you want in the menu  
 4) Associate the file type with menu_json.exe (Look at step 5 below this to learn how to do that.)
 
-# How to setup a non "menu.JSON" depedent version in Windows 10  
+# How to setup a non "menu.JSON" dependent version in Windows 10  
   
 1) Make a folder in your c:\program files.  (I will assume you are using "c:\program files\menu")  
 2) Copy all the files from this Github into that folder  
