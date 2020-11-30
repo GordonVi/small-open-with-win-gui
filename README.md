@@ -2,7 +2,7 @@
 A simple powershell menu converted to an exe to select what program you want to open your file with on double click
 
 ![Menu](http://virasawmi.com/gordon/images/2020-11-26_12-32-41.png)  
-#[How to use and install Video](http://virasawmi.com/gordon/video/simple-menu-gui.mp4)
+[How to use and install Video](http://virasawmi.com/gordon/video/simple-menu-gui.mp4) (1:48)
 
 This was a response to a [Reddit post.](https://old.reddit.com/r/software/comments/k11zm0/looking_for_a_simple_tool_to_expand_open_file/) The OP wanted to open 3D design files in 4 different programs, but wanted to change the behavior of double clicking a file. He didn't want to right click and use "Open With."  
   
